@@ -1,3 +1,3 @@
 Hi im floddyyz
 
-. Developer: LUA, C# and Python
+. Junior dev: LUA, C# and Python
