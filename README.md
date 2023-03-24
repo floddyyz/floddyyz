@@ -1,3 +1,5 @@
-Hi im floddyyz
+                                                    Welcome to my Github, Im floddyyz
+                                                    
+- *Back-end developer*
 
-. Junior dev: LUA, C# and Python
+**Discord Community:** *https://discord.gg/jMPXmDVP84*
