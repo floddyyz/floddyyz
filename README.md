@@ -1,5 +1,4 @@
-                                                    Welcome to my Github, Im floddyyz
-                                                    
-- *Back-end developer*
+Hi! I'm floddyyz
 
-**Discord Community:** *https://discord.gg/jMPXmDVP84*
+Languages:
+HTML, CSS, LUA, PYTHON, C# 
