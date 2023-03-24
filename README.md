@@ -1,4 +1,5 @@
 **Hi! I'm floddyyz**
 
-Languages:
-*HTML, CSS, LUA, PYTHON, C#* 
+**Languages:**
+
+*Html, Css, Lua, Python, C#* 
