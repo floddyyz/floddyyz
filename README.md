@@ -1,4 +1,4 @@
-Hi! I'm floddyyz
+**Hi! I'm floddyyz**
 
 Languages:
-HTML, CSS, LUA, PYTHON, C# 
+*HTML, CSS, LUA, PYTHON, C#* 
