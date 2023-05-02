@@ -1,5 +1,3 @@
-**Hi! I'm floddyyz**
+Hi i'm floddyyz
 
-**Languages:**
-
-*Html, Css, Lua, Python, C#* 
+*Junior Developer* 
